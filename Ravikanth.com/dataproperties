@@ -1,0 +1,8 @@
+#Browsers
+chromedriver=chrome
+FirefoxDriver = Firefox
+
+!URL
+
+AmazonURL= https://amazon.in
+HDFC = https://hdfc.com
